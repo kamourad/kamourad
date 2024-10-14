@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h2 align="left">-Student programming<br>-Dev</h2>
 
 ###
